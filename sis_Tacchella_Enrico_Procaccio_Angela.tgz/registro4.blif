@@ -1,0 +1,9 @@
+.model REGISTRO4
+.inputs A3 A2 A1 A0
+.outputs O3 O2 O1 O0
+.latch    A3 O3 re NIL 0
+.latch    A2 O2 re NIL 0
+.latch    A1 O1 re NIL 0
+.latch    A0 O0 re NIL 0
+.end 
+

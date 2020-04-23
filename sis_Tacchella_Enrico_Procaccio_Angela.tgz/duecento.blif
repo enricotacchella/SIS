@@ -1,0 +1,29 @@
+.model DUECENTO
+.outputs D7 D6 D5 D4 D3 D2 D1 D0
+
+.names D7 
+1
+
+.names D6
+1
+
+.names D5
+0 
+
+.names D4
+0 
+
+.names D3
+1
+
+.names D2
+0 
+
+.names D1
+0 
+
+.names D0
+0 
+
+.end 
+
